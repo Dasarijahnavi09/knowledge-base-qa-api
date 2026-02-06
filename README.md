@@ -148,3 +148,5 @@ Clean request/response flow
 How text-based knowledge systems work
 
 How this can be extended later with AI or cloud services
+# knowledge-base-qa-api
+
