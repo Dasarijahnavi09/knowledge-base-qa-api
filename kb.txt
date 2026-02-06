@@ -1,0 +1,3 @@
+We have 5 burgers in stock.
+There are 3 hamburgers available.
+The kitchen has 10 burger patties ready.
